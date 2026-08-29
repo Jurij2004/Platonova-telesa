@@ -1,3 +1,5 @@
+
+
 # Platonska-telesa
 ### Projektna naloga pri predmetu Računalniška orodja v matematiki.
 
@@ -9,3 +11,5 @@ Pomagal si bom z razdelkom Cartesian coordinates v https://en.wikipedia.org/wiki
 2. Navedba vseh 5 teles,
 3. Uvoz kartezičnih koordinat is spletne strani,
 4. vizualizacija teles.
+
+Povezava do videoposnetka: https://www.youtube.com/watch?v=dwdiZZJeGMI
